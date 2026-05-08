@@ -1,5 +1,5 @@
 print("=" * 45)
-print("        🐮 SISTEMA BOI NA BALANÇA 🐮        ")
+print("      AgroGestão       ")
 print("=" * 45)
 
 peso_boi = float(input("Digite o peso vivo do boi em KG: "))
