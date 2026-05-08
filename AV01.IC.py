@@ -1,0 +1,24 @@
+print("=" * 45)
+print("        🐮 SISTEMA BOI NA BALANÇA 🐮        ")
+print("=" * 45)
+
+peso_boi = float(input("Digite o peso vivo do boi em KG: "))
+cotacao_arroba = float(input("Digite a cotação da Arroba hoje (R$): "))
+
+
+quantidade_arrobas = peso_boi / 30
+valor_total = quantidade_arrobas * cotacao_arroba
+
+print("-" * 45)
+print("            RESULTADO DA AVALIAÇÃO           ")
+print("-" * 45)
+
+print(f"Peso em Arrobas...: {quantidade_arrobas:.2f} @")
+print(f"Valor Estimado....: R$ {valor_total:.2f}")
+
+if valor_total >= 4000:
+    print("Status............: BOA HORA PARA VENDER! ✅")
+else:
+    print("Status............: AGUARDAR ENGORDA. ❌")
+    
+print("=" * 45)
