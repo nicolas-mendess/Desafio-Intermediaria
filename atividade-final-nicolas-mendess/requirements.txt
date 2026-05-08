@@ -1,4 +1,0 @@
-# rquisitos para rodar o projeto e os testes
-pytest
-pytest-cov
-coverage
