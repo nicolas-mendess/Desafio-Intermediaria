@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>portfolioHUB — Nicolas Fernandes Mendes</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+
+  <header class="header" id="header">
+    <div class="header__inner">
+      <a href="#hero" class="header__logo">portfolio<span>HUB</span></a>
+      <nav class="header__nav" id="nav">
+        <a href="#perfil">Perfil</a>
+        <a href="#curriculo">Currículo</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#habilidades">Habilidades</a>
+        <a href="#contato" class="btn-nav">Contato</a>
+      </nav>
+      <button class="hamburger" id="hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <section class="hero" id="hero">
+    <div class="hero__bg-grid"></div>
+    <div class="hero__content">
+      <p class="hero__eyebrow">Bem-vindo ao meu espaço digital</p>
+      <h1 class="hero__title">
+        Olá, sou<br/>
+        <em>Nicolas Mendes</em>
+      </h1>
+      <p class="hero__subtitle" id="typed-subtitle">Desenvolvedor Web</p>
+      <div class="hero__cta">
+        <a href="#projetos" class="btn btn--primary">Ver Projetos</a>
+        <a href="#curriculo" class="btn btn--outline">Meu Currículo</a>
+      </div>
+    </div>
+    <div class="hero__scroll-hint">
+      <span>Role para explorar</span>
+      <i class="fa-solid fa-chevron-down"></i>
+    </div>
+  </section>
+
+  <section class="section perfil" id="perfil">
+    <div class="container">
+      <div class="section-label">01 — Perfil Pessoal</div>
+      <div class="perfil__grid">
+        <div class="perfil__foto-col">
+          <div class="perfil__foto-wrap">
+            <img
+              src="https://placehold.co/400x480/0f172a/3b82f6?text=Nicolas+M."
+              alt="Foto profissional de Nicolas Fernandes Mendes"
+              class="perfil__foto"
+            />
+            <div class="perfil__foto-badge">Aberto a oportunidades</div>
+          </div>
+        </div>
+        <div class="perfil__info-col">
+          <h2 class="section-title">Sobre mim</h2>
+          <p class="perfil__bio">
+            Sou Nicolas Fernandes Mendes, estudante de <strong>Ciência da Computação</strong> no Centro Universitário
+            de Brasília (UniCEUB), com base em desenvolvimento web, controle de versão e fundamentos de segurança
+            da informação. Inglês fluente com vivência no exterior — o que amplia minha capacidade de colaborar em
+            projetos e consumir conteúdo técnico internacional.
+          </p>
+          <p class="perfil__bio">
+            Formado pelo <strong>Colégio Militar de Brasília</strong>, desenvolvi disciplina, organização e rigor
+            técnico que hoje aplico na programação. Participo ativamente das oficinas de monitoria do UniCEUB,
+            explorando Linux, HTML/CSS, fundamentos de computação e ciência de dados com Python.
+          </p>
+          <div class="perfil__contato">
+            <h3 class="perfil__contato-title">Conecte-se comigo</h3>
+            <div class="perfil__links">
+              <a href="mailto:nicolas.mendes@sempreceub.com" class="contact-link contact-link--email">
+                <i class="fa-solid fa-envelope"></i>
+                <span>nicolas.mendes@sempreceub.com</span>
+              </a>
+              <a href="https://www.linkedin.com/in/nicolas-fernandes-mendes-9b50b23b0" target="_blank" class="contact-link contact-link--linkedin">
+                <i class="fa-brands fa-linkedin"></i>
+                <span>linkedin.com/in/nicolas-fernandes-mendes</span>
+              </a>
+              <a href="https://github.com/nicolas-mendess" target="_blank" class="contact-link contact-link--github">
+                <i class="fa-brands fa-github"></i>
+                <span>github.com/nicolas-mendess</span>
+              </a>
+              <a href="#" class="contact-link contact-link--location">
+                <i class="fa-solid fa-location-dot"></i>
+                <span>SQN 305, Brasília – DF</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section curriculo" id="curriculo">
+    <div class="container">
+      <div class="section-label">02 — Currículo Digital</div>
+      <h2 class="section-title">Trajetória Acadêmica</h2>
+
+      <div class="curriculo__grid">
+        <div class="curriculo__col">
+          <h3 class="curriculo__col-title"><i class="fa-solid fa-graduation-cap"></i> Formação Acadêmica</h3>
+          <div class="timeline">
+            <div class="timeline__item">
+              <div class="timeline__dot timeline__dot--accent"></div>
+              <div class="timeline__content">
+                <span class="timeline__period">Jan 2026 — Cursando</span>
+                <h4 class="timeline__title">Bacharelado em Ciência da Computação</h4>
+                <p class="timeline__sub">Centro Universitário de Brasília (UniCEUB) · Asa Norte 907</p>
+                <p class="timeline__desc">1º Semestre. Foco em desenvolvimento de software, lógica de programação e fundamentos da computação.</p>
+              </div>
+            </div>
+            <div class="timeline__item">
+              <div class="timeline__dot"></div>
+              <div class="timeline__content">
+                <span class="timeline__period">Jan 2023 — Dez 2025</span>
+                <h4 class="timeline__title">Ensino Médio Completo</h4>
+                <p class="timeline__sub">Colégio Militar de Brasília · Asa Norte 902/904</p>
+                <p class="timeline__desc">Formação com excelência acadêmica, disciplina e desenvolvimento de habilidades analíticas e de liderança.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="curriculo__col">
+          <h3 class="curriculo__col-title"><i class="fa-solid fa-briefcase"></i> Atividades &amp; Formação Complementar</h3>
+          <div class="timeline">
+            <div class="timeline__item">
+              <div class="timeline__dot timeline__dot--accent"></div>
+              <div class="timeline__content">
+                <span class="timeline__period">2026 — Em andamento</span>
+                <h4 class="timeline__title">Monitoria de TI — UniCEUB</h4>
+                <p class="timeline__sub">Centro Universitário de Brasília · Presencial</p>
+                <p class="timeline__desc">Participação em oficinas de Linux, HTML e CSS, Fundamentos da Computação e Fundamentos de Ciência de Dados com Python.</p>
+              </div>
+            </div>
+            <div class="timeline__item">
+              <div class="timeline__dot"></div>
+              <div class="timeline__content">
+                <span class="timeline__period">2024</span>
+                <h4 class="timeline__title">Cisco Networking Academy</h4>
+                <p class="timeline__sub">Cisco · Online</p>
+                <p class="timeline__desc">Certificações em Fundamentos do Hardware do Computador e Introdução à Cibersegurança.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="curriculo__bottom curriculo__bottom--3col">
+        <div class="curriculo__card">
+          <h3 class="curriculo__card-title"><i class="fa-solid fa-code"></i> Habilidades Técnicas</h3>
+          <ul class="tag-list">
+            <li class="tag">HTML5</li>
+            <li class="tag">CSS3</li>
+            <li class="tag">Layout Responsivo</li>
+            <li class="tag">Flexbox / Grid</li>
+            <li class="tag">Git</li>
+            <li class="tag">GitHub</li>
+            <li class="tag">Python (básico)</li>
+            <li class="tag">Linux</li>
+          </ul>
+        </div>
+
+        <div class="curriculo__card">
+          <h3 class="curriculo__card-title"><i class="fa-solid fa-language"></i> Idiomas</h3>
+          <div class="lang-list">
+            <div class="lang-item">
+              <span class="lang-name">Português</span>
+              <div class="lang-bar"><div class="lang-bar__fill" style="width:100%"></div></div>
+              <span class="lang-level">Nativo</span>
+            </div>
+            <div class="lang-item">
+              <span class="lang-name">Inglês</span>
+              <div class="lang-bar"><div class="lang-bar__fill" style="width:92%"></div></div>
+              <span class="lang-level">Fluente · Vivência no exterior</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="curriculo__card">
+          <h3 class="curriculo__card-title"><i class="fa-solid fa-certificate"></i> Certificações</h3>
+          <ul class="cert-list">
+            <li class="cert-item">
+              <i class="fa-solid fa-shield-halved"></i>
+              <div>
+                <strong>Introdução à Cibersegurança</strong>
+                <span>Cisco Networking Academy</span>
+              </div>
+            </li>
+            <li class="cert-item">
+              <i class="fa-solid fa-microchip"></i>
+              <div>
+                <strong>Fundamentos do Hardware</strong>
+                <span>Cisco Networking Academy</span>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section projetos" id="projetos">
+    <div class="container">
+      <div class="section-label">03 — Projetos</div>
+      <h2 class="section-title">Trabalhos Acadêmicos</h2>
+      <p class="section-desc">Projetos desenvolvidos durante o curso e nas oficinas de monitoria do UniCEUB.</p>
+
+      <div class="projetos__grid projetos__grid--2col">
+        <article class="project-card">
+          <div class="project-card__img">
+            <img src="https://placehold.co/600x340/1e293b/3b82f6?text=portfolioHUB" alt="portfolioHUB" />
+            <div class="project-card__overlay">
+              <span class="project-card__tag">Web · HTML &amp; CSS</span>
+            </div>
+          </div>
+          <div class="project-card__body">
+            <h3 class="project-card__title">portfolioHUB</h3>
+            <p class="project-card__desc">Este portfólio digital responsivo, desenvolvido com HTML5, CSS3 e JavaScript puro. Inclui navegação fixa, animações de scroll e embed de apresentação em slides.</p>
+            <div class="project-card__links">
+              <a href="https://github.com/nicolas-mendess" target="_blank" class="btn btn--sm btn--primary"><i class="fa-brands fa-github"></i> GitHub</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="project-card">
+          <div class="project-card__img">
+            <img src="https://placehold.co/600x340/1e293b/06b6d4?text=Oficinas+UniCEUB" alt="Oficinas HTML e CSS" />
+            <div class="project-card__overlay">
+              <span class="project-card__tag">Web · UniCEUB</span>
+            </div>
+          </div>
+          <div class="project-card__body">
+            <h3 class="project-card__title">Exercícios das Oficinas — HTML &amp; CSS</h3>
+            <p class="project-card__desc">Projetos práticos desenvolvidos nas oficinas de HTML e CSS da Monitoria de TI do UniCEUB, cobrindo estrutura semântica, layout responsivo e posicionamento.</p>
+            <div class="project-card__links">
+              <a href="https://github.com/nicolas-mendess" target="_blank" class="btn btn--sm btn--primary"><i class="fa-brands fa-github"></i> Ver no GitHub</a>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div class="projetos__aviso">
+        <i class="fa-solid fa-code-branch"></i>
+        <p>Mais projetos em desenvolvimento. Acompanhe meu <a href="https://github.com/nicolas-mendess" target="_blank">GitHub</a> para novidades.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section habilidades" id="habilidades">
+    <div class="container">
+      <div class="section-label">04 — Habilidades &amp; Competências</div>
+      <h2 class="section-title">O que sei fazer</h2>
+
+      <div class="habilidades__grid habilidades__grid--2col">
+        <div class="hab-area">
+          <div class="hab-icon"><i class="fa-solid fa-layer-group"></i></div>
+          <h3>Desenvolvimento Web</h3>
+          <p>Criação de páginas estruturadas, acessíveis e responsivas para qualquer dispositivo.</p>
+          <div class="hab-bar-wrap">
+            <div class="hab-bar" style="--pct:85%">
+              <span>HTML5 — Estrutura &amp; Semântica</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+            <div class="hab-bar" style="--pct:80%">
+              <span>CSS3 — Layout &amp; Estilização</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+            <div class="hab-bar" style="--pct:75%">
+              <span>Design Responsivo</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hab-area">
+          <div class="hab-icon"><i class="fa-brands fa-git-alt"></i></div>
+          <h3>Ferramentas &amp; Versionamento</h3>
+          <p>Controle de versão com Git e colaboração em repositórios no GitHub.</p>
+          <div class="hab-bar-wrap">
+            <div class="hab-bar" style="--pct:78%">
+              <span>Git — Controle de versão</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+            <div class="hab-bar" style="--pct:76%">
+              <span>GitHub — Repositórios</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hab-area">
+          <div class="hab-icon"><i class="fa-solid fa-shield-halved"></i></div>
+          <h3>Cibersegurança &amp; Hardware</h3>
+          <p>Fundamentos de segurança da informação e arquitetura de hardware — certificado pela Cisco Networking Academy.</p>
+          <div class="hab-bar-wrap">
+            <div class="hab-bar" style="--pct:70%">
+              <span>Fundamentos de Cibersegurança</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+            <div class="hab-bar" style="--pct:68%">
+              <span>Hardware do Computador</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hab-area">
+          <div class="hab-icon"><i class="fa-solid fa-earth-americas"></i></div>
+          <h3>Inglês Fluente</h3>
+          <p>Domínio avançado com vivência no exterior — leitura de documentação técnica, consumo de conteúdo internacional e comunicação profissional.</p>
+          <div class="hab-bar-wrap">
+            <div class="hab-bar" style="--pct:92%">
+              <span>Leitura &amp; Escrita técnica</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+            <div class="hab-bar" style="--pct:90%">
+              <span>Comunicação oral</span><div class="hab-bar__track"><div class="hab-bar__fill"></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="slides-embed">
+        <h3 class="slides-embed__title">
+          <i class="fa-solid fa-presentation-screen"></i>
+          Apresentação de Competências
+        </h3>
+        <p class="slides-embed__desc">Navegue pela minha apresentação completa de habilidades e trajetória acadêmica.</p>
+        <div class="slides-embed__frame">
+          <iframe
+            src="https://docs.google.com/presentation/d/12hapvttuJ0s2F_Im91aqHm0BKpZhlR7zOPVonzQNGOA/embed?start=false&loop=false&delayms=3000"
+            frameborder="0"
+            allowfullscreen
+            title="Apresentação de Competências — Nicolas Fernandes Mendes"
+          ></iframe>
+        </div>
+        <a
+          href="https://docs.google.com/presentation/d/12hapvttuJ0s2F_Im91aqHm0BKpZhlR7zOPVonzQNGOA/edit?usp=sharing"
+          class="btn btn--outline slides-embed__btn"
+          target="_blank"
+        >
+          <i class="fa-solid fa-arrow-up-right-from-square"></i>
+          Abrir no Google Slides
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section contato" id="contato">
+    <div class="container contato__inner">
+      <h2 class="contato__title">Vamos conversar?</h2>
+      <p class="contato__desc">Estou aberto a oportunidades de estágio, projetos acadêmicos e colaborações. Manda um e-mail ou me encontra nas redes!</p>
+      <a href="mailto:nicolas.mendes@sempreceub.com" class="btn btn--primary btn--lg">
+        <i class="fa-solid fa-paper-plane"></i> nicolas.mendes@sempreceub.com
+      </a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <span class="footer__logo">portfolio<strong>HUB</strong></span>
+      <p class="footer__copy">© 2026 Nicolas Fernandes Mendes · Brasília, DF <i class="fa-solid fa-heart"></i></p>
+      <div class="footer__social">
+        <a href="mailto:nicolas.mendes@sempreceub.com" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+        <a href="https://www.linkedin.com/in/nicolas-fernandes-mendes-9b50b23b0" target="_blank" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="https://github.com/nicolas-mendess" target="_blank" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
