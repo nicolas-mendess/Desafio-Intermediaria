@@ -21,6 +21,10 @@
 
 O **Gestão Agronegócios** nasceu como projeto acadêmico de 1º semestre e evoluiu para uma aplicação web instalável. O sistema resolve um problema real do pequeno pecuarista: tomar decisões rápidas no campo sem precisar de planilhas ou conexão com internet.
 
+Problema que resolve: o pequeno pecuarista não tem ferramenta simples para tomar decisões rápidas no campo — quanto vale o boi hoje, se está pronto para venda e quanto vai custar engordá-lo até o peso ideal
+Público-alvo: produtor rural de baixa familiaridade tecnológica, usando smartphone no curral, sob sol forte
+Princípio de design: alto contraste, botões grandes, zero complexidade desnecessária, resultados imediatos na tel
+
 **Dois módulos principais:**
 
 | Módulo | O que resolve |
@@ -72,7 +76,6 @@ Refatoração completa para uma Single Page Application instalável no celular, 
 
 ## 🛠️ Tecnologia
 
-### v2.0 — Web
 | Tecnologia | Uso |
 |---|---|
 | HTML5 | Estrutura da SPA |
