@@ -56,46 +56,6 @@ Primeira versão entregue como trabalho acadêmico de 1º semestre. Desenvolvida
 - Zero bibliotecas externas
 - Zero funções (`def`), classes, listas ou dicionários
 
-**Como executar:**
-```bash
-python main.py
-```
-
-**Exemplo de saída:**
-```
-==================================================
-        🌾  AGRO GESTÃO  🌾
-   Sistema de Gestão para Produtor Rural
-==================================================
-  [1]  💰  Gestão Financeira
-  [2]  🐂  Pesagem e Nutrição Inteligente
-  [3]  🚪  Sair do Sistema
-==================================================
-  👉  Escolha uma opção: 2
-
-  🎯  Peso Ideal / Meta (KG): 450
-  ⚖️   Peso Atual na Balança (KG): 380
-
-  ──────────────────────────────────
-  Peso Ideal:  450.00 kg
-  Peso Atual:  380.00 kg
-  ──────────────────────────────────
-  ⚠️   Animal abaixo do peso em 70.00 kg.
-
-  🌽  MÓDULO DE NUTRIÇÃO ACIONADO
-  ──────────────────────────────────
-  💲  Preço do KG de ração (R$): 3.50
-
-  ──────────────────────────────────
-  KG de ração necessário:     70.00 kg
-  Custo estimado de nutrição: R$ 245.00
-  ──────────────────────────────────
-  📋  Recomendação: acompanhar a dieta
-      e pesar novamente em 30 dias.
-==================================================
-```
-
----
 
 ### v2.0 — Progressive Web App
 
