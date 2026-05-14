@@ -10,19 +10,19 @@ Este repositório serve como meu hub de estudos e portfólio acadêmico/pessoal.
 
 ## 📂 Como o repositório está organizado?
 
-Para não virar bagunça, dividi meus trabalhos em três pastas principais:
+Dividi meus trabalhos em três pastas principais:
 
-1. **[Projetos Acadêmicos PY](https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos.PY):** Aqui estão códogos em python que é a primeira e mais focada lingua de programação e possuia maior numero de arquivos. Nela disponibilizei as minhas 6 Provas Práticas de Lógica de Programação e o código inicial da AV01 (AgroGestão) em Python.
+1. **[Projetos Acadêmicos PY](https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos.PY):** Aqui estão códogos em python que é a primeira e mais focada lingua de programação Python e possuia maior numero de arquivos. Nela disponibilizei as minhas 6 Provas Práticas de Lógica de Programação e o código inicial da AV01 (AgroGestão).
 2. **[Projetos Acadêmicos](https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos):** Onde guardo trabalhos interdisciplinares, incluindo o meu site principal (**portfolioHUB**) e variações da AV01.
-3. **[Projetos Pessoais](https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20pessoais/Agroneg%C3%B3cio):** Aqui é onde eu levo o que aprendi na aula para fora da caixa. O destaque é a evolução do AgroGestão, transformado em uma interface Web com várias versões.
+3. **[Projetos Pessoais](https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20pessoais/Agroneg%C3%B3cio):** Aqui é onde eu levo o que aprendi na aula para fora da caixa. O destaque é a evolução do AgroGestão, transformado em uma interface Web com várias versões sendo cada vez aprimorado.
 
 ---
 
 ### AV01
-É um trabalho de Introdução a Computação, que usei para poder unir a area da pecuária e suas atividades econômica com meus conhecimentos de Ciencias de Computação sendo trabalho com mais potencial. A agropecuária alimentou o passado, sustenta o presente e garante o futuro🥩. 
+É um trabalho de Introdução a Computação, que usei para poder unir a area da pecuária e suas atividades econômica com meus conhecimentos de Ciencias de Computação sendo trabalho com mais potencial. "A agropecuária alimentou o passado, sustenta o presente e garante o futuro" foi o principio usado para criar o projeto.🥩 
 
 ### Provas Práticas
-Na pasta de Provas Práticas (Python), guardei todos os arquivos exigidos na disciplina de Lógica de Programação no decorrer do semestre até o momento. Esses arquivos são para ver o meu progresso, começando com contas matemáticas simples em estruturas if e else, avançando para os laços de repetição while e for, e chegando a organizar o código criando minhas próprias funções (def) para calculadoras e fatoriais.
+Na pasta de Provas Práticas (Python), guardei todos os arquivos exigidos na disciplina de Lógica de Programação no decorrer do semestre até o momento. Esses arquivos são para ver o meu progresso, começando com contas matemáticas simples em estruturas if e else, avançando para os laços de repetição while e for, e chegando a organizar o código criando minhas próprias funções (def) para calculadoras e fatoriais.📝
 
 ### portfolioHUB
 Um portfólio digital utilizando as ferramentas GIT/GITHUB, com o objetivo deapresentar suas habilidades, experiências e projetos de forma organizada e profissional. Esteportfólio poderá ser compartilhado com a comunidade acadêmica e profissionais domercado, auxiliando na busca por oportunidades de estágio e emprego durante o períodouniversitário.💻 
@@ -32,8 +32,8 @@ Denominado portfolioHUB, contem informações relevantes sobre minha trajetória
 É a minha vitrine. Um site feito com HTML, CSS e JavaScript para mostrar meus projetos e habilidades de forma profissional.
 > **[Ver meu portfólio ao vivo](https://nicolas-mendess.github.io/portfolioHUB/)**
 
-### 🌾 AgroGestão
-O projeto que mais me empenhei. Começou como um trabalho de faculdade em Python (terminal) e eu o evoluí para uma aplicação Web (PWA) que o produtor rural pode usar no celular para gerenciar o gado e as finanças.
+### AgroGestão
+O projeto que mais me empenhei. Começou como um trabalho de faculdade em Python (terminal) e eu o evoluí para uma aplicação Web que o produtor rural pode usar no celular para gerenciar o gado e as finanças.🌾 
 
 ---
 
