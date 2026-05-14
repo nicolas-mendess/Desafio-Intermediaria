@@ -1,6 +1,7 @@
 # Olá! Sou o Nicolas Fernandes Mendes 👋
 
-Bem-vindo ao meu repositório central. Sou estudante de **Ciência da Computação no UniCEUB** (1º Semestre) e este espaço é onde organizo tudo o que estou aprendendo, desde os meus primeiros passos com Python até projetos web mais completos.
+Objetivo Geral:
+Desenvolver um repositório que contenha projetos acadêmicos e pessoais, com oobjetivo de compor um perfil profissional robusto para o estudante. Além disso, a atividadevisa ensinar as melhores práticas de versionamento, colaboração e compartilhamento decódigo, e como integrar este repositório com outras plataformas profissionais, como oLinkedIn. Sou estudante de **Ciência da Computação no UniCEUB** (1º Semestre) e este espaço é onde organizo tudo o que estou aprendendo, desde os meus primeiros passos com Python até projetos web mais completos.
 
 Este repositório serve como meu hub de estudos e portfólio acadêmico/pessoal.
 
