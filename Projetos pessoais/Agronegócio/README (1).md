@@ -21,9 +21,9 @@
 
 O **Gestão Agronegócios** nasceu como projeto acadêmico de 1º semestre e evoluiu para uma aplicação web instalável. O sistema resolve um problema real do pequeno pecuarista: tomar decisões rápidas no campo sem precisar de planilhas ou conexão com internet.
 
-Problema que resolve: o pequeno pecuarista não tem ferramenta simples para tomar decisões rápidas no campo — quanto vale o boi hoje, se está pronto para venda e quanto vai custar engordá-lo até o peso ideal
-Público-alvo: produtor rural de baixa familiaridade tecnológica, usando smartphone no curral, sob sol forte
-Princípio de design: alto contraste, botões grandes, zero complexidade desnecessária, resultados imediatos na tel
+Problema que resolve: o pequeno pecuarista não tem ferramenta simples para tomar decisões rápidas no campo — quanto vale o boi hoje, se está pronto para venda e quanto vai custar engordá-lo até o peso ideal.
+Público-alvo: produtor rural de baixa familiaridade tecnológica, usando smartphone no curral, sob sol forte.
+Princípio de design: alto contraste, botões grandes, zero complexidade desnecessária, resultados imediatos na tela.
 
 **Dois módulos principais:**
 
@@ -36,10 +36,9 @@ Princípio de design: alto contraste, botões grandes, zero complexidade desnece
 
 ## 🔄 Versões
 
-### v1.0 — MVP Python (Terminal)
+### v1.0 — Python (Terminal)
 
 Primeira versão entregue como trabalho acadêmico de 1º semestre. Desenvolvida com recursos básicos de Python, sem uso de bibliotecas, funções, classes ou dicionários, sem o uso de bibliotecas, funções, classes, listas ou dicionários. A aplicação executa um menu interativo no terminal por meio de um laço while True e utiliza apenas estruturas de controle básicas como if/elif/else, input(), print(), float() e break para implementar um Módulo de Gestão Financeira e um Módulo de Pesagem e Nutrição com lógica condicional encadeada, podendo ser executado diretamente com o comando python main.py.
-### v1.0 — Python
 | Recurso | Uso |
 |---|---|
 | `while True` | Mantém o menu ativo |
@@ -51,9 +50,6 @@ Primeira versão entregue como trabalho acadêmico de 1º semestre. Desenvolvida
 ### v2.0 — Progressive Web App
 
 Refatoração completa para uma Single Page Application instalável no celular, com suporte offline via Service Worker.
-
-**Arquivo principal:** `index.html`  
-**Arquivos de suporte:** `manifest.json`, `service-worker.js`
 
 **O que foi adicionado nesta versão:**
 
@@ -67,8 +63,6 @@ Refatoração completa para uma Single Page Application instalável no celular, 
 | `inputmode="decimal"` | Teclado numérico nativo no celular |
 | `safe-area-inset` | Suporte a notch e barra de gestos do iPhone |
 | Banner de instalação | Aparece automaticamente no Chrome/Android |
-
-
 
 ---
 
