@@ -2,7 +2,7 @@
 Este espaço é onde organizo tudo o que estou aprendendo, desde os meus primeiros passos com Python até projetos web mais completos.
 
 Objetivo Geral:
-Desenvolver um repositório que contenha projetos acadêmicos e pessoais, com oobjetivo de compor um perfil profissional robusto para o estudante. Além disso, a atividadevisa ensinar as melhores práticas de versionamento, colaboração e compartilhamento decódigo, e como integrar este repositório com outras plataformas profissionais, como oLinkedIn. 
+Desenvolver um repositório que contenha projetos acadêmicos e pessoais, com o objetivo de compor um perfil profissional robusto como estudante. Além disso, o uso das melhores práticas de versionamento, colaboração e compartilhamento decódigo, e como integrar este repositório com outras plataformas profissionais, como oLinkedIn. 
 Este repositório serve como meu hub de estudos e portfólio acadêmico/pessoal.
 
 ---
