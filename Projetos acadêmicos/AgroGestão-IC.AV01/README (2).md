@@ -1,7 +1,7 @@
 # 🌾 AgroGestão
 > **Gestão Inteligente e Acessível para a Pecuária de Corte.**
 
-O **AgroGestão PRO** é uma solução digital desenhada para democratizar o acesso à tecnologia no campo. O foco principal é auxiliar o pequeno e médio pecuarista de corte na fase de **engorda**, permitindo um controle rigoroso sobre a saúde financeira e o desenvolvimento ponderal do rebanho de forma simples e intuitiva.
+O **AgroGestão** é uma solução digital desenhada para democratizar o acesso à tecnologia no campo. O foco principal é auxiliar o pequeno e médio pecuarista de corte na fase de **engorda**, permitindo um controle rigoroso sobre a saúde financeira e o desenvolvimento ponderal do rebanho de forma simples e intuitiva.
 
 ---
 
