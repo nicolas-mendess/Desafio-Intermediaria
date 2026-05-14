@@ -2,12 +2,6 @@
 
 > Sistema de gestão rural para pecuaristas de corte — do terminal Python a uma Progressive Web App.
 
-![Status](https://img.shields.io/badge/status-ativo-brightgreen)
-![Versão](https://img.shields.io/badge/versão-2.0-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![HTML](https://img.shields.io/badge/HTML5%20%2F%20CSS3%20%2F%20JS-Vanilla-orange)
-![Licença](https://img.shields.io/badge/licença-MIT-green)
-
 ---
 
 ## 📌 Índice
