@@ -44,8 +44,7 @@ O projeto que mais me empenhei. Começou como um trabalho de faculdade em Python
 
 ---
 
-
-
-
+### Desenvolvido
+Desenvolvido por mim Nicolas Fernande Mendes, estudante de Ciêcia da Computação no UniCEUB.
 - **LinkedIn:** [nicolas-fernandes-mendes](https://www.linkedin.com/in/nicolas-fernandes-mendes-9b50b23b0)
 - **E-mail:** nicolas.mendes@sempreceub.com
