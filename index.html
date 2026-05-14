@@ -3,47 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nicolas Mendes - Hub</title>
+    <title>Hub Acadêmico | Nicolas Fernandes Mendes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
 
     <div class="container">
         <header>
             <h1>Nicolas Fernandes Mendes</h1>
-            <p>Repositório Central de Projetos</p>
-            <div class="links-topo">
-                <a href="https://nicolas-mendess.github.io/portfolioHUB/" class="btn-azul">Meu Portfólio</a>
-                <a href="https://www.linkedin.com/in/nicolas-fernandes-mendes-9b50b23b0" class="btn-borda">LinkedIn</a>
+            <p class="subtitle">Estudante de Ciência da Computação | Repositório Central de Projetos e Evolução Acadêmica.</p>
+            
+            <div class="btn-group">
+                <a href="https://nicolas-mendess.github.io/portfolioHUB/" target="_blank" class="btn btn-primary">
+                    <i class="fa-solid fa-globe"></i> Ver meu portfolioHUB
+                </a>
+                <a href="https://www.linkedin.com/in/nicolas-fernandes-mendes-9b50b23b0" target="_blank" class="btn btn-outline">
+                    <i class="fa-brands fa-linkedin"></i> Conectar no LinkedIn
+                </a>
             </div>
         </header>
 
-        <main class="grid">
+        <div class="grid">
             <div class="card">
-                <i class="fab fa-python"></i>
-                <h2>Projetos Python</h2>
-                <p>6 Provas Práticas de Lógica de Programação e código inicial da AV01.</p>
-                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos.PY">Acessar Pasta</a>
+                <i class="fa-brands fa-python card-icon icon-python"></i>
+                <h2>Projetos Acadêmicos PY</h2>
+                <p>Códigos em Python focados em Lógica de Programação. Contém 6 Provas Práticas e o código inicial da AV01 (AgroGestão em terminal).</p>
+                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos.PY" class="card-link" target="_blank">
+                    Explorar pasta Python <i class="fa-solid fa-arrow-right"></i>
+                </a>
             </div>
 
             <div class="card">
-                <i class="fas fa-folder-open"></i>
-                <h2>Acadêmicos</h2>
-                <p>Trabalhos interdisciplinares, portfolioHUB e variações da AV01.</p>
-                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos">Acessar Pasta</a>
+                <i class="fa-solid fa-folder-open card-icon icon-web"></i>
+                <h2>Projetos Acadêmicos</h2>
+                <p>Trabalhos interdisciplinares e front-end. Inclui o código-fonte do portfolioHUB e as variações iniciais da AV01.</p>
+                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos" class="card-link" target="_blank">
+                    Explorar interdisciplinares <i class="fa-solid fa-arrow-right"></i>
+                </a>
             </div>
 
             <div class="card">
-                <i class="fas fa-rocket"></i>
+                <i class="fa-solid fa-rocket card-icon icon-rocket"></i>
                 <h2>Projetos Pessoais</h2>
-                <p>Evolução do AgroGestão: transformando terminal Python em interface Web.</p>
-                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20pessoais/Agroneg%C3%B3cio">Acessar Pasta</a>
+                <p>Evolução do AgroGestão, transformado de terminal para uma interface Web robusta com múltiplas versões e melhorias contínuas.</p>
+                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20pessoais/Agroneg%C3%B3cio" class="card-link" target="_blank">
+                    Explorar projetos pessoais <i class="fa-solid fa-arrow-right"></i>
+                </a>
             </div>
-        </main>
+        </div>
 
         <footer>
-            <p>Trabalho de Versionamento - UniCEUB 2026</p>
+            <p>Criado por Nicolas Fernandes Mendes para o Desafio de Versionamento (UniCEUB).</p>
         </footer>
     </div>
 
