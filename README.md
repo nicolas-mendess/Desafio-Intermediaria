@@ -11,9 +11,9 @@ Este repositório serve como meu hub de estudos e portfólio acadêmico/pessoal.
 
 Para não virar bagunça, dividi meus trabalhos em três pastas principais:
 
-1. **[Projetos Acadêmicos PY](Projetos_acadêmicos.PY):** Aqui estão códogos em python que é a primeira e mais focada lingua de programação e possuia maior numero de arquivos. Nela disponibilizei as minhas 6 Provas Práticas de Lógica de Programação e o código inicial da AV01 (AgroGestão) em Python.
-2. **[Projetos Acadêmicos](Projetos_academicos):** Onde guardo trabalhos interdisciplinares, incluindo o meu site principal (**portfolioHUB**) e variações da AV01.
-3. **[Projetos Pessoais](Projetos_pessoais):** Aqui é onde eu levo o que aprendi na aula para fora da caixa. O destaque é a evolução do AgroGestão, transformado em uma interface Web com várias versões.
+1. **[Projetos Acadêmicos PY](Projetos acadêmicos.PY):** Aqui estão códogos em python que é a primeira e mais focada lingua de programação e possuia maior numero de arquivos. Nela disponibilizei as minhas 6 Provas Práticas de Lógica de Programação e o código inicial da AV01 (AgroGestão) em Python.
+2. **[Projetos Acadêmicos](Projetos academicos):** Onde guardo trabalhos interdisciplinares, incluindo o meu site principal (**portfolioHUB**) e variações da AV01.
+3. **[Projetos Pessoais](Projetos pessoais):** Aqui é onde eu levo o que aprendi na aula para fora da caixa. O destaque é a evolução do AgroGestão, transformado em uma interface Web com várias versões.
 
 ---
 
