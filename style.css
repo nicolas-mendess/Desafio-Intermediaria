@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #0f172a;
+    color: white;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    padding: 40px 0;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+header p {
+    color: #94a3b8;
+    margin-bottom: 20px;
+}
+
+.links-topo {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.btn-azul {
+    background-color: #3b82f6;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn-borda {
+    border: 1px solid #94a3b8;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.card {
+    background-color: #1e293b;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid #334155;
+    text-align: center;
+}
+
+.card i {
+    font-size: 40px;
+    color: #3b82f6;
+    margin-bottom: 15px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.card p {
+    color: #94a3b8;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+}
+
+.card a {
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #64748b;
+    font-size: 0.8rem;
+}
