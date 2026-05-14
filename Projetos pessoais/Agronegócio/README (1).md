@@ -16,11 +16,10 @@
 - [Versões](#-versões)
   - [v1.0 — MVP Python (Terminal)](#v10--mvp-python-terminal)
   - [v2.0 — Progressive Web App](#v20--progressive-web-app)
-- [Regras de Negócio](#-regras-de-negócio)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Como Executar](#-como-executar)
 - [Tecnologias](#-tecnologias)
-- [Autor](#-autor)
+
 
 ---
 
