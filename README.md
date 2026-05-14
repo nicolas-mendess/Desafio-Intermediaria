@@ -11,9 +11,9 @@ Este repositório serve como meu hub de estudos e portfólio acadêmico/pessoal.
 
 Para não virar bagunça, dividi meus trabalhos em três pastas principais:
 
-1. **[Projetos Acadêmicos PY](./1_projetos_academicos_PY):** Aqui estão códogos em python que é a primeira e mais focada lingua de programação e possuia maior numero de arquivos. Nela disponibilizei as minhas 6 Provas Práticas de Lógica de Programação e o código inicial da AV01 (AgroGestão) em Python.
-2. **[Projetos Acadêmicos](./2_projetos_academicos):** Onde guardo trabalhos interdisciplinares, incluindo o meu site principal (**portfolioHUB**) e variações da AV01.
-3. **[Projetos Pessoais](./3_projetos_pessoais):** Aqui é onde eu levo o que aprendi na aula para fora da caixa. O destaque é a evolução do AgroGestão, transformado em uma interface Web com várias versões.
+1. **[Projetos Acadêmicos PY](./Projetos_acadêmicos.PY):** Aqui estão códogos em python que é a primeira e mais focada lingua de programação e possuia maior numero de arquivos. Nela disponibilizei as minhas 6 Provas Práticas de Lógica de Programação e o código inicial da AV01 (AgroGestão) em Python.
+2. **[Projetos Acadêmicos](./Projetos_academicos):** Onde guardo trabalhos interdisciplinares, incluindo o meu site principal (**portfolioHUB**) e variações da AV01.
+3. **[Projetos Pessoais](./Projetos_pessoais):** Aqui é onde eu levo o que aprendi na aula para fora da caixa. O destaque é a evolução do AgroGestão, transformado em uma interface Web com várias versões.
 
 ---
 
@@ -22,7 +22,8 @@ Para não virar bagunça, dividi meus trabalhos em três pastas principais:
 
 ### 💻 portfolioHUB
 Um portfólio digital utilizando as ferramentas GIT/GITHUB, com o objetivo deapresentar suas habilidades, experiências e projetos de forma organizada e profissional. Esteportfólio poderá ser compartilhado com a comunidade acadêmica e profissionais domercado, auxiliando na busca por oportunidades de estágio e emprego durante o períodouniversitário.
-Denominado portfolioHUB, contem informaçõesrelevantes sobre minha trajetória acadêmica e profissional. O portfólio a ser inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais,projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.
+
+Denominado portfolioHUB, contem informações relevantes sobre minha trajetória acadêmica e profissional. O portfólio a ser inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais,projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.
 
 É a minha vitrine. Um site feito com HTML, CSS e JavaScript para mostrar meus projetos e habilidades de forma profissional.
 > **[Ver meu portfólio ao vivo](https://nicolas-mendess.github.io/portfolioHUB/)**
