@@ -64,35 +64,11 @@ Refatoração completa para uma Single Page Application instalável no celular, 
 | `safe-area-inset` | Suporte a notch e barra de gestos do iPhone |
 | Banner de instalação | Aparece automaticamente no Chrome/Android |
 
-**Deploy no GitHub Pages:**
-1. Faça upload de `index.html`, `manifest.json` e `service-worker.js` na raiz do repositório
-2. Vá em **Settings → Pages → Branch: main → Save**
-3. Acesse `https://seu-usuario.github.io/nome-do-repositorio`
+
 
 ---
 
 ### Versão Web (v2.0)
-
-**Opção 1 — Direto no navegador:**
-Abra o arquivo `index.html` diretamente no Chrome ou Edge.
-
-**Opção 2 — GitHub Pages (recomendado):**
-```
-https://seu-usuario.github.io/gestao-agronegocios
-```
-
-**Opção 3 — Servidor local:**
-```bash
-# Com Python
-python -m http.server 8000
-
-# Com Node.js
-npx serve .
-```
-
-> Para o Service Worker funcionar corretamente, é necessário rodar via servidor HTTP (opções 2 ou 3), não pelo protocolo `file://`.
-
----
 
 ## 🛠️ Tecnologia
 
