@@ -107,6 +107,25 @@ npx serve .
 | localStorage | Persistência leve de dados |
 
 ---
+Versão 2.0 — SPA Web 🚧 Em andamento
+
+Refatoração completa para index.html único (HTML5 + CSS3 + JS Vanilla)
+Toda a lógica Python traduzida para JavaScript (parseFloat, toLocaleString para BRL)
+Design mobile-first com fonte DM Serif Display + DM Sans, paleta verde #0d3318 / #1f5c1f
+Navegação SPA: 3 telas (home, financeiro, pesagem) trocadas via navigate() sem reload
+Animação fadeIn em cada troca de tela e em cada resultado
+Deploy previsto: GitHub Pages (repositório com index.html na raiz)
+
+
+### Próximos Passos — Fase Front-end Web
+
+Validação de inputs mais robusta: impedir valores negativos, mostrar erros inline (abaixo do campo) em vez de alert()
+Persistência leve: salvar os últimos valores usados via localStorage para o produtor não redigitar tudo
+Histórico de cálculos: exibir os últimos 3–5 resultados numa secção "Histórico" na Home
+Módulo Boi na Balança integrado como terceira opção no menu (cálculo de arrobas + cotação)
+Modo offline / PWA: adicionar manifest.json e um Service Worker básico para o app funcionar sem internet no campo
+Acessibilidade: aria-labels nos inputs, contraste revisado com WCAG AA
+README atualizado com screenshots da SPA e instruções de deploy no GitHub Pages
 
 Desenvolvido como projeto acadêmico do 1º semestre estruturado em um único arquivo em Python, depois aprimorado do terminal para uma experiência visual acessível com acessibilidade em navegadores e dispositivos móveis, com Interface gráfica responsiva, desacoplamento da lógica de negócio.
 
