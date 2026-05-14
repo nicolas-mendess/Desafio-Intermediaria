@@ -12,13 +12,13 @@
 
 ## 📌 Índice
 
-[Sobre o Projeto](#-sobre-o-projeto)
-[Versões](#-versões)
- - [v1.0 — MVP Python (Terminal)](#v10--mvp-python-terminal)
- - [v2.0 — Progressive Web App](#v20--progressive-web-app)
-[Estrutura do Repositório](#-estrutura-do-repositório)
-[Como Executar](#-como-executar)
-[Tecnologias](#-tecnologias)
+- [Sobre o Projeto]
+- [Versões]
+ - [v1.0 — MVP Python (Terminal)]
+ - [v2.0 — Progressive Web App]
+- [Estrutura do Repositório]
+- [Como Executar]
+- [Tecnologias]
 
 
 ---
