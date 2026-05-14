@@ -30,7 +30,7 @@ Denominado portfolioHUB, este portfólio pode ser compartilhado com a comunidade
 Contem informações relevantes sobre minha trajetória acadêmica e profissional. O portfólio inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais,projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.💻
 
 É a minha vitrine. Um site feito com HTML, CSS e JavaScript para mostrar meus projetos e habilidades de forma profissional.
-> **[Ver meu portfólio ao vivo](https://nicolas-mendess.github.io/portfolioHUB/)**
+> **[Ver meu portfólio](https://nicolas-mendess.github.io/portfolioHUB/)**
 
 ### AgroGestão
 O projeto que mais me empenhei. Começou como um trabalho de faculdade em Python (terminal) e eu o evoluí para uma aplicação Web que o produtor rural pode usar no celular para gerenciar o gado e as finanças.🌾 
