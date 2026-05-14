@@ -18,10 +18,13 @@ Para não virar bagunça, dividi meus trabalhos em três pastas principais:
 ---
 
 ### AV01
-É um trabalho de Introdução a Computação, que usei para poder unir a area da pecuária e suas atividade econômica com meus conhecimentos de Ciencias de Computação sendo trabalho com mais potencial. A agropecuária alimentou o passado, sustenta o presente e garante o futuro🥩. 
+É um trabalho de Introdução a Computação, que usei para poder unir a area da pecuária e suas atividades econômica com meus conhecimentos de Ciencias de Computação sendo trabalho com mais potencial. A agropecuária alimentou o passado, sustenta o presente e garante o futuro🥩. 
 
-###💻 portfolioHUB
-Um portfólio digital utilizando as ferramentas GIT/GITHUB, com o objetivo deapresentar suas habilidades, experiências e projetos de forma organizada e profissional. Esteportfólio poderá ser compartilhado com a comunidade acadêmica e profissionais domercado, auxiliando na busca por oportunidades de estágio e emprego durante o períodouniversitário.
+### Provas Práticas
+Na pasta de Provas Práticas (Python), guardei todos os arquivos exigidos na disciplina de Lógica de Programação no decorrer do semestre até o momento. Esses arquivos são para ver o meu progresso, começando com contas matemáticas simples em estruturas if e else, avançando para os laços de repetição while e for, e chegando a organizar o código criando minhas próprias funções (def) para calculadoras e fatoriais.
+
+### portfolioHUB
+Um portfólio digital utilizando as ferramentas GIT/GITHUB, com o objetivo deapresentar suas habilidades, experiências e projetos de forma organizada e profissional. Esteportfólio poderá ser compartilhado com a comunidade acadêmica e profissionais domercado, auxiliando na busca por oportunidades de estágio e emprego durante o períodouniversitário.💻 
 
 Denominado portfolioHUB, contem informações relevantes sobre minha trajetória acadêmica e profissional. O portfólio a ser inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais,projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.
 
