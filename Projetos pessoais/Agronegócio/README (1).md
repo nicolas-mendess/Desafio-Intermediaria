@@ -41,20 +41,14 @@ O **Gestão Agronegócios** nasceu como projeto acadêmico de 1º semestre e evo
 
 ### v1.0 — MVP Python (Terminal)
 
-Primeira versão entregue como trabalho acadêmico de 1º semestre. Desenvolvida com recursos básicos de Python, sem uso de bibliotecas, funções, classes ou dicionários.
-
-**Arquivo:** `main.py`
-
-**Funcionalidades:**
-- Menu interativo no terminal com `while True`
-- Módulo de Gestão Financeira com `if/else`
-- Módulo de Pesagem e Nutrição com lógica condicional encadeada
-- Opção de sair com `break`
-
-**Restrições técnicas aplicadas (nível 1º semestre):**
-- Apenas: `while`, `if/elif/else`, `input()`, `print()`, `float()`
-- Zero bibliotecas externas
-- Zero funções (`def`), classes, listas ou dicionários
+Primeira versão entregue como trabalho acadêmico de 1º semestre. Desenvolvida com recursos básicos de Python, sem uso de bibliotecas, funções, classes ou dicionários, sem o uso de bibliotecas, funções, classes, listas ou dicionários. A aplicação executa um menu interativo no terminal por meio de um laço while True e utiliza apenas estruturas de controle básicas como if/elif/else, input(), print(), float() e break para implementar um Módulo de Gestão Financeira e um Módulo de Pesagem e Nutrição com lógica condicional encadeada, podendo ser executado diretamente com o comando python main.py.
+### v1.0 — Python
+| Recurso | Uso |
+|---|---|
+| `while True` | Mantém o menu ativo |
+| `if / elif / else` | Lógica de negócio e condicionais |
+| `input()` + `float()` | Captura e conversão de dados |
+| `print()` + f-strings | Saída formatada no terminal |
 
 
 ### v2.0 — Progressive Web App
@@ -84,73 +78,6 @@ Refatoração completa para uma Single Page Application instalável no celular, 
 
 ---
 
-## 🧮 Regras de Negócio
-
-### Módulo 1 — Gestão Financeira
-
-```
-Lucro = Ganhos Totais − Custos Totais
-```
-
-| Condição | Status exibido |
-|---|---|
-| `Lucro > 0` | ✅ OPERAÇÃO SAUDÁVEL |
-| `Lucro ≤ 0` | ❌ PREJUÍZO |
-
-### Módulo 2 — Pesagem e Nutrição
-
-```
-Défice = Peso Ideal − Peso Atual
-KG de Ração = Défice × Conversão Alimentar (CA = 7,0)
-Custo Total  = KG de Ração × Preço do KG de Ração
-```
-
-| Condição | Status exibido |
-|---|---|
-| `Peso Atual >= Peso Ideal` | ✅ Animal no peso ideal |
-| `Peso Atual < Peso Ideal` | ⚠️ Módulo de Nutrição acionado |
-
-> **CA = 7,0** é a constante de Conversão Alimentar utilizada no projeto — valor fictício adotado para fins acadêmicos.
-
----
-
-## 📁 Estrutura do Repositório
-
-```
-gestao-agronegocios/
-│
-├── main.py              # v1.0 — Script Python para terminal
-│
-├── index.html           # v2.0 — SPA completa (HTML + CSS + JS)
-├── manifest.json        # v2.0 — Configuração PWA
-├── service-worker.js    # v2.0 — Cache offline
-│
-├── icons/               # Ícones do app (72px até 512px)
-│   ├── icon-192.png
-│   └── icon-512.png
-│
-└── README.md
-```
-
----
-
-## 🚀 Como Executar
-
-### Versão Python (v1.0)
-
-**Pré-requisito:** Python 3 instalado.
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/gestao-agronegocios.git
-
-# Entre na pasta
-cd gestao-agronegocios
-
-# Execute
-python main.py
-```
-
 ### Versão Web (v2.0)
 
 **Opção 1 — Direto no navegador:**
@@ -174,15 +101,7 @@ npx serve .
 
 ---
 
-## 🛠️ Tecnologias
-
-### v1.0 — Python
-| Recurso | Uso |
-|---|---|
-| `while True` | Mantém o menu ativo |
-| `if / elif / else` | Lógica de negócio e condicionais |
-| `input()` + `float()` | Captura e conversão de dados |
-| `print()` + f-strings | Saída formatada no terminal |
+## 🛠️ Tecnologia
 
 ### v2.0 — Web
 | Tecnologia | Uso |
@@ -196,12 +115,6 @@ npx serve .
 
 ---
 
-## 👤 Autor
-
-Desenvolvido como projeto acadêmico de 1º semestre.
+Desenvolvido como projeto acadêmico do 1º semestre estruturado em um único arquivo em Python, depois aprimorado do terminal para uma experiência visual acessível com acessibilidade em navegadores e dispositivos móveis, com Interface gráfica responsiva, desacoplamento da lógica de negócio.
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
