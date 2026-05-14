@@ -3,218 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hub Acadêmico | Nicolas Fernandes Mendes</title>
-    
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
-    <style>
-        :root {
-            --bg-color: #0f172a;
-            --card-bg: #1e293b;
-            --text-main: #f8fafc;
-            --text-muted: #94a3b8;
-            --primary: #3b82f6;
-            --primary-hover: #2563eb;
-            --border: rgba(255, 255, 255, 0.1);
-        }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-main);
-            line-height: 1.6;
-            -webkit-font-smoothing: antialiased;
-        }
-
-        .container {
-            max-width: 1100px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-
-        /* Cabeçalho */
-        header {
-            text-align: center;
-            margin-bottom: 60px;
-            padding-top: 20px;
-        }
-
-        header h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            color: #ffffff;
-        }
-
-        header p.subtitle {
-            font-size: 1.2rem;
-            color: var(--text-muted);
-            max-width: 700px;
-            margin: 0 auto 30px auto;
-        }
-
-        /* Botões de Ação Rápida */
-        .btn-group {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-
-        .btn {
-            padding: 12px 24px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            transition: all 0.3s ease;
-        }
-
-        .btn-primary {
-            background-color: var(--primary);
-            color: #ffffff;
-        }
-
-        .btn-primary:hover {
-            background-color: var(--primary-hover);
-            transform: translateY(-2px);
-        }
-
-        .btn-outline {
-            background-color: transparent;
-            color: var(--text-main);
-            border: 2px solid var(--border);
-        }
-
-        .btn-outline:hover {
-            border-color: var(--text-main);
-            transform: translateY(-2px);
-        }
-
-        /* Grid de Projetos */
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-            gap: 25px;
-            margin-bottom: 50px;
-        }
-
-        /* Cards */
-        .card {
-            background-color: var(--card-bg);
-            padding: 30px;
-            border-radius: 12px;
-            border: 1px solid var(--border);
-            transition: transform 0.3s ease, border-color 0.3s ease;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            border-color: var(--primary);
-        }
-
-        .card-icon {
-            font-size: 2.5rem;
-            color: var(--primary);
-            margin-bottom: 20px;
-        }
-
-        /* Cores específicas para ícones */
-        .icon-python { color: #f5a623; }
-        .icon-web { color: #3b82f6; }
-        .icon-rocket { color: #10b981; }
-
-        .card h2 {
-            font-size: 1.4rem;
-            margin-bottom: 15px;
-        }
-
-        .card p {
-            color: var(--text-muted);
-            font-size: 0.95rem;
-            margin-bottom: 25px;
-            flex-grow: 1;
-        }
-
-        .card-link {
-            display: inline-block;
-            color: var(--primary);
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.95rem;
-        }
-
-        .card-link:hover {
-            text-decoration: underline;
-        }
-
-        /* Rodapé */
-        footer {
-            text-align: center;
-            padding-top: 30px;
-            border-top: 1px solid var(--border);
-            color: var(--text-muted);
-            font-size: 0.9rem;
-        }
-    </style>
+    <title>Nicolas Mendes - Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
 
     <div class="container">
         <header>
             <h1>Nicolas Fernandes Mendes</h1>
-            <p class="subtitle">Estudante de Ciência da Computação | Repositório Central de Projetos e Evolução Acadêmica.</p>
-            
-            <div class="btn-group">
-                <a href="https://nicolas-mendess.github.io/portfolioHUB/" target="_blank" class="btn btn-primary">
-                    <i class="fa-solid fa-globe"></i> Ver meu portfolioHUB
-                </a>
-                <a href="https://www.linkedin.com/in/nicolas-fernandes-mendes-9b50b23b0" target="_blank" class="btn btn-outline">
-                    <i class="fa-brands fa-linkedin"></i> Conectar no LinkedIn
-                </a>
+            <p>Repositório Central de Projetos</p>
+            <div class="links-topo">
+                <a href="https://nicolas-mendess.github.io/portfolioHUB/" class="btn-azul">Meu Portfólio</a>
+                <a href="https://www.linkedin.com/in/nicolas-fernandes-mendes-9b50b23b0" class="btn-borda">LinkedIn</a>
             </div>
         </header>
 
-        <div class="grid">
-            
+        <main class="grid">
             <div class="card">
-                <i class="fa-brands fa-python card-icon icon-python"></i>
-                <h2>Projetos Acadêmicos PY</h2>
-                <p>Aqui estão os códigos em Python, que é a minha primeira e mais focada linguagem de programação. É a pasta com o maior número de arquivos, onde disponibilizo minhas 6 Provas Práticas de Lógica de Programação e o código inicial da AV01 (AgroGestão em terminal).</p>
-                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos.PY" class="card-link" target="_blank">
-                    Explorar pasta Python <i class="fa-solid fa-arrow-right"></i>
-                </a>
+                <i class="fab fa-python"></i>
+                <h2>Projetos Python</h2>
+                <p>6 Provas Práticas de Lógica de Programação e código inicial da AV01.</p>
+                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos.PY">Acessar Pasta</a>
             </div>
 
             <div class="card">
-                <i class="fa-solid fa-folder-open card-icon icon-web"></i>
-                <h2>Projetos Acadêmicos</h2>
-                <p>Onde guardo os meus trabalhos interdisciplinares e front-end. Inclui o código-fonte do meu site principal (portfolioHUB) e as duas primeiras variações da AV01, onde comecei a explorar outras tecnologias além do Python.</p>
-                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos" class="card-link" target="_blank">
-                    Explorar interdisciplinares <i class="fa-solid fa-arrow-right"></i>
-                </a>
+                <i class="fas fa-folder-open"></i>
+                <h2>Acadêmicos</h2>
+                <p>Trabalhos interdisciplinares, portfolioHUB e variações da AV01.</p>
+                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20acad%C3%AAmicos">Acessar Pasta</a>
             </div>
 
             <div class="card">
-                <i class="fa-solid fa-rocket card-icon icon-rocket"></i>
+                <i class="fas fa-rocket"></i>
                 <h2>Projetos Pessoais</h2>
-                <p>Aqui é onde eu levo o que aprendi na aula para fora da caixa! O grande destaque é a evolução do AgroGestão, transformado de um simples código de terminal para uma interface Web robusta com várias versões, sendo aprimorado a cada atualização.</p>
-                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20pessoais/Agroneg%C3%B3cio" class="card-link" target="_blank">
-                    Explorar projetos pessoais <i class="fa-solid fa-arrow-right"></i>
-                </a>
+                <p>Evolução do AgroGestão: transformando terminal Python em interface Web.</p>
+                <a href="https://github.com/nicolas-mendess/Desafio-Intermediaria/tree/main/Projetos%20pessoais/Agroneg%C3%B3cio">Acessar Pasta</a>
             </div>
-
-        </div>
+        </main>
 
         <footer>
-            <p>Criado por Nicolas Fernandes Mendes para o Desafio - Entrega Intermediária:
-Criação de Repositório com Versionamento.</p>
+            <p>Trabalho de Versionamento - UniCEUB 2026</p>
         </footer>
     </div>
 
