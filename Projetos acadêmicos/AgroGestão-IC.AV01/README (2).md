@@ -1,9 +1,5 @@
-# 🌾 AgroGestão PRO
+# 🌾 AgroGestão
 > **Gestão Inteligente e Acessível para a Pecuária de Corte.**
-
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
-![Versão](https://img.shields.io/badge/Versão-2.0%20(Web)-blue)
-![Linguagem](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS-yellow)
 
 O **AgroGestão PRO** é uma solução digital desenhada para democratizar o acesso à tecnologia no campo. O foco principal é auxiliar o pequeno e médio pecuarista de corte na fase de **engorda**, permitindo um controle rigoroso sobre a saúde financeira e o desenvolvimento ponderal do rebanho de forma simples e intuitiva.
 
@@ -70,7 +66,6 @@ O projeto aplica as seguintes lógicas matemáticas:
 ## 📝 Autor
 
 Desenvolvido por **Nicolas Mendes** como parte do projeto de Introdução à Computação.
-Se você gostou desse projeto, sinta-se à vontade para dar uma ⭐️ no repositório!
 
 ---
-*Este projeto foi desenvolvido com fins didáticos, unindo lógica de programação e agronegócio.*
+*Este projeto foi desenvolvido com unindo lógica de programação e agronegócio.*
