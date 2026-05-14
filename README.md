@@ -22,12 +22,12 @@ Dividi meus trabalhos em três pastas principais:
 É um trabalho de Introdução a Computação, que usei para poder unir a area da pecuária e suas atividades econômica com meus conhecimentos de Ciencias de Computação sendo trabalho com mais potencial. "A agropecuária alimentou o passado, sustenta o presente e garante o futuro" foi o principio usado para criar o projeto.🥩 
 
 ### Provas Práticas
-Na pasta de Provas Práticas (Python), guardei todos os arquivos exigidos na disciplina de Lógica de Programação no decorrer do semestre até o momento. Esses arquivos são para ver o meu progresso, começando com contas matemáticas simples em estruturas if e else, avançando para os laços de repetição while e for, e chegando a organizar o código criando minhas próprias funções (def) para calculadoras e fatoriais.📝
+Na pasta de Projetos Acadêmicos de Python, guardei todos os arquivos das Provas Práticas exigidos na disciplina de Lógica de Programação no decorrer do semestre até o momento. Esses arquivos são para ver o meu progresso, começando com contas matemáticas simples em estruturas if e else, avançando para os laços de repetição while e for, e chegando a organizar o código criando minhas próprias funções (def) para calculadoras e fatoriais.📝
 
 ### portfolioHUB
-Um portfólio digital utilizando as ferramentas GIT/GITHUB, com o objetivo deapresentar suas habilidades, experiências e projetos de forma organizada e profissional. Esteportfólio poderá ser compartilhado com a comunidade acadêmica e profissionais domercado, auxiliando na busca por oportunidades de estágio e emprego durante o períodouniversitário.💻 
-
-Denominado portfolioHUB, contem informações relevantes sobre minha trajetória acadêmica e profissional. O portfólio a ser inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais,projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.
+Um trabalho de Bootcamp que exigiu um portfólio digital utilizando as ferramentas GIT/GITHUB, com o objetivo deapresentar suas habilidades, experiências e projetos de forma organizada e profissional. 
+Denominado portfolioHUB, este portfólio pode ser compartilhado com a comunidade acadêmica e profissionais do mercado, auxiliando na busca por oportunidades de estágio e emprego durante o período universitário. 
+Contem informações relevantes sobre minha trajetória acadêmica e profissional. O portfólio inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais,projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.💻
 
 É a minha vitrine. Um site feito com HTML, CSS e JavaScript para mostrar meus projetos e habilidades de forma profissional.
 > **[Ver meu portfólio ao vivo](https://nicolas-mendess.github.io/portfolioHUB/)**
