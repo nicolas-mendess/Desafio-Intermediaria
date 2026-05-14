@@ -37,7 +37,7 @@ O projeto que mais me empenhei. Começou como um trabalho de faculdade em Python
 
 ---
 
-## 🛠️ O que estou estudando no momento:
+## Recursos usados no projeto 🛠️
 - **Linguagens:** Python e JavaScript.
 - **Front-end:** HTML5 e CSS3 (Design Responsivo).
 - **Ferramentas:** Git, GitHub e VS Code.
