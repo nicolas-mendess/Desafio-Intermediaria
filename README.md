@@ -27,7 +27,7 @@ Na pasta de Projetos Acadêmicos de Python, guardei todos os arquivos das Provas
 ### portfolioHUB
 Um trabalho de Bootcamp que exigiu um portfólio digital utilizando as ferramentas GIT/GITHUB, com o objetivo deapresentar minhas habilidades, experiências e projetos de forma organizada e profissional. 
 Denominado portfolioHUB, este portfólio pode ser compartilhado com a comunidade acadêmica e profissionais do mercado, auxiliando na busca por oportunidades de estágio e emprego durante o período universitário. 
-Contem informações relevantes sobre minha trajetória acadêmica e profissional. O portfólio inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais,projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.💻
+Contem informações relevantes sobre minha trajetória acadêmica e profissional. O portfólio inclui seções como perfil pessoal, currículo, experiências acadêmicas e profissionais, projetos desenvolvidos, e outras informações que julgar pertinentes para destacar minhas habilidades e conquistas.💻
 
 É a minha vitrine. Um site feito com HTML, CSS e JavaScript para mostrar meus projetos e habilidades de forma profissional.
 > **[Ver meu portfólio](https://nicolas-mendess.github.io/portfolioHUB/)**
