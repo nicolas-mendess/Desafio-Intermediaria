@@ -19,7 +19,9 @@ Dividi meus trabalhos em três pastas principais:
 ---
 
 ### AV01
-É um trabalho de Introdução a Computação, que usei para poder unir a area da pecuária e suas atividades econômica com meus conhecimentos de Ciencias de Computação sendo trabalho com mais potencial. "A agropecuária alimentou o passado, sustenta o presente e garante o futuro" foi o principio usado para criar o projeto.🥩 
+Realizando uma análise diagnóstica de um cenário real (pensando em cliente ou um problema cotidiano). O objetivo foi identificar lacunas que possam ser solucionadas via infraestrutura de TI, especificando demandas de hardware (sensores, servidores, redes) e software (sistemas de gestão, APIs, IA). Seguindo uma estrutura intuitiva, que apresente o contexto e a justificativa do problema.
+É um trabalho de Introdução a Computação, que usei para poder unir a area da pecuária e suas atividades econômica com meus conhecimentos de Ciencias de Computação sendo trabalho com mais potencial. 
+"A agropecuária alimentou o passado, sustenta o presente e garante o futuro" foi o principio usado para criar o projeto.🥩 
 
 ### Provas Práticas
 Na pasta de Projetos Acadêmicos de Python, guardei todos os arquivos das Provas Práticas exigidos na disciplina de Lógica de Programação no decorrer do semestre até o momento. Esses arquivos são para ver o meu progresso, começando com contas matemáticas simples em estruturas if e else, avançando para os laços de repetição while e for, e chegando a organizar o código criando minhas próprias funções (def) para calculadoras e fatoriais.📝
